@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">89ff49608330f210c8c35950ceaad310</canvas>
+        <component display_value="Filter">226449101138d0dff1abe0e1566c8b2a</component>
+        <component_props>{"filterId":"1hflg8o7e0cvhh5e2csg","filterName":"Priority","filterComponentType":"singleselect","datasource":{"type":"indicator","payload":{"breakdown":"49c3765dd7231100b96d45a3ce6103b9","isChoiceType":true,"targetTable":"sys_choice","factsTable":"sys_choice","field":"sys_id"}},"targets":[{"type":"table","payload":{"table":"problem","field":"priority","fieldType":"choice"}},{"type":"indicator","payload":{"breakdown":"49c3765dd7231100b96d45a3ce6103b9","isChoiceType":true,"targetTable":"sys_choice","factsTable":"sys_choice","field":"sys_id"}}],"defaultSelectedItems":[],"dateFilterView":"calendar-reldates","sort":"ASC","filterElementType":"pill","isShowSelectedValueInPill":true,"filterElementLayout":"vertical","enableClearFilter":true,"maxElements":500,"cascadeScope":"81ff49608330f210c8c35950ceaad30d","host":"dashboard","noDebounce":"","value":[]}</component_props>
+        <h>6</h>
+        <name>Problem - Priority</name>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-21 19:37:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c4d9d5648370f210c8c35950ceaad305</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Problem - Priority</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_c4d9d5648370f210c8c35950ceaad305</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-21 19:37:36</sys_updated_on>
+        <visualization/>
+        <w>14</w>
+        <widget_props/>
+        <x>19</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
